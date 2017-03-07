@@ -1,0 +1,16 @@
+[{
+	"driverLicenseRequired": false,
+	"requiredCertificates": ["The Human Handbook", "Outstanding Memory Award", "Excellence in Organization"],
+	"location": {
+		"longitude": "13.864602",
+		"latitude": "49.93359"
+	},
+	"billRate": "$6.16",
+	"workersRequired": 1,
+	"startDate": "2015-11-12T09:29:19.188Z",
+	"about": "Enim excepteur ex dolore commodo incididunt. Mollit officia laborum sunt nostrud id duis non. Minim consectetur enim in dolore ipsum nulla. Occaecat irure voluptate esse ut do est nostrud esse fugiat.",
+	"jobTitle": "The Resinator",
+	"company": "Frenex",
+	"guid": "562f66aa51a9a4d728a65f6a",
+	"jobId": 0
+}]

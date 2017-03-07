@@ -1,0 +1,42 @@
+[{
+	"rating": 2,
+	"isActive": true,
+	"certificates": ["Outstanding Innovator", "The Behind the Scenes Wonder", "The Risk Taker", "Outside the Box Thinker", "Marvelous Multitasker", "The Asker of Good Questions", "Outstanding Memory Award", "Office Lunch Expert", "Excellence in Organization"],
+	"skills": ["Creator of opportunities", "Arts and Crafts Designer"],
+	"jobSearchAddress": {
+		"unit": "km",
+		"maxJobDistance": 30,
+		"longitude": "13.971284",
+		"latitude": "49.782281"
+	},
+	"transportation": "CAR",
+	"hasDriversLicense": false,
+	"availability": [{
+		"title": "Tuesday",
+		"dayIndex": 2
+	}, {
+		"title": "Monday",
+		"dayIndex": 1
+	}, {
+		"title": "Sunday",
+		"dayIndex": 7
+	}, {
+		"title": "Thursday",
+		"dayIndex": 4
+	}, {
+		"title": "Friday",
+		"dayIndex": 5
+	}, {
+		"title": "Wednesday",
+		"dayIndex": 3
+	}, null],
+	"phone": "+1 (847) 420-3272",
+	"email": "fowler.andrews@comcubine.io",
+	"name": {
+		"last": "Andrews",
+		"first": "Fowler"
+	},
+	"age": 30,
+	"guid": "562f6647410ecd6bf49146e9",
+	"userId": 0
+}]
